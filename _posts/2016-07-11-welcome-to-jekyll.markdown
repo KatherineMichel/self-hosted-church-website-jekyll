@@ -4,22 +4,8 @@ title:  "Welcome to Jekyll!"
 date:   2016-07-11 17:39:37 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to Pretty Prairie United Methodist Church! On our website, you will find pictures and information about the church building. But it's not the building that is important. God's people are the church, growing together as his disciples through the many activities that take place here, locally and globally. The spirit of God's grace guides us to see every person as a vital part of the living and growing body of Christ. We look forward to seeing what God will help us accomplish in the years ahead. We welcome you to join us in transforming lives through Jesus Christ. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Grace and peace, 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Pastor Susan Greene
