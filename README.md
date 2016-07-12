@@ -1,1 +1,1 @@
-# Self-Hosted Church Website- Jekyll
+# Self-Hosted Church Website- Jekyll Version
