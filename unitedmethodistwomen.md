@@ -1,0 +1,7 @@
+---
+layout: page
+permalink: /unitedmethodistwomen/
+title: United Methodist Women
+image: /images/umw.jpg
+---
+[United Methodist Women](http://www.unitedmethodistwomen.org) started in 1869 with six members. Today there are over 800,000 members. Pretty Prairie United Methodist Church has long had a faithful UMW. United Methodist Women are focused on ministries for women, children and youth. We are in mission to put our faith, hope and love into action for our community, country and world. 
