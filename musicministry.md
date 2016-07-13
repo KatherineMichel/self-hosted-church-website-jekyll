@@ -1,6 +1,8 @@
-            <div class="col-md-4 portfolio-item">
-                <a href="{{ "/musicministry/" | prepend: site.baseurl }}">
-                    <img class="img-responsive" src="images/adult-choir.jpg">
-                </a>
-                <p>Music Ministry</p>
-            </div>
+---
+layout: page
+permalink: /musicministry/
+title: Music Ministry
+image: /images/adult-choir.jpg
+---
+Pretty Prairie United Methodist Church has a thriving Music Ministry, including Chancel Choir, Children's Choir, special music during the summer and music programs through the year. 
+
