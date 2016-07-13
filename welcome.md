@@ -1,6 +1,6 @@
 ---
 layout: page
 permalink: /welcome/
-thumbnail: welcome-sign.jpg
+thumbnail: /images/welcome-sign.jpg
 ---
 Hello World
