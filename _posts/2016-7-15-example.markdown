@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Example" 
-date:   2016-15-07
+date:   2016-7-15
 categories: example
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mollis orci sit amet metus facilisis efficitur. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer nibh sem, eleifend non gravida nec, fringilla vitae velit. Curabitur nec purus et elit dictum facilisis. Sed non dolor ac augue vehicula consequat. Sed rhoncus urna nulla, at tristique nisl vehicula vulputate. Aenean mauris est, dignissim eget libero sit amet, commodo auctor est. Quisque interdum sodales nibh in suscipit. Cras commodo tortor ut quam volutpat, et sagittis massa sagittis. In sollicitudin ante nec ullamcorper rhoncus. Cras interdum sed dui eu fermentum. Nunc sed ultricies est, eu fringilla metus. Nullam eget aliquet quam. Praesent pretium, sapien nec dapibus auctor, mi enim posuere mi, convallis imperdiet ex ex vel lacus. Donec pretium non sapien nec convallis. Maecenas libero nisl, congue id lorem et, vehicula posuere lorem.
