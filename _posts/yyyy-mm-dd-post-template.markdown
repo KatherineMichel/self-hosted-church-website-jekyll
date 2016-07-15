@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Title" 
-date:   yyyy-dd-mm
+date:   yyyy-mm-dd
 categories: category
 ---
 Text
