@@ -5,6 +5,7 @@ title: Worship Service and Sunday School
 image: /images/church-sanctuary.jpg
 caption: Church Sanctuary
 ---
+
 Worship - Sundays at 11:00 a.m. 
 
 Sunday School - 10:00 a.m. to 10:45 a.m. 
