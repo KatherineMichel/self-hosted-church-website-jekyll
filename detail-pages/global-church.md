@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /globalchurch/
+permalink: /global-church/
 title: Global Church and Mission
 image: /images/rethink-church-logo.jpg
 ---
