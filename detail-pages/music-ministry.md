@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /musicministry/
+permalink: /music-ministry/
 title: Music Ministry
 image: /images/adult-choir.jpg
 caption: Church Choir
