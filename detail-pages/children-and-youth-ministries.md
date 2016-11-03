@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /childrenandyouthministries/
+permalink: /children-and-youth-ministries/
 title: Children and Youth Ministries
 image: /images/childrens-choir.jpg
 ---
