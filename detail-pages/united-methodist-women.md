@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /unitedmethodistwomen/
+permalink: /united-methodist-women/
 title: United Methodist Women
 image: /images/umw.jpg
 ---
