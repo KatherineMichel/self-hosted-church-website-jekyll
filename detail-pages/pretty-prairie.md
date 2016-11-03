@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /prettyprairie/
+permalink: /pretty-prairie/
 title: Pretty Prairie, Kansas
 image: /images/sunflowers.jpg
 caption: A Pretty Prairie of Sunflowers, the Kansas State Flower
